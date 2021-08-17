@@ -1,0 +1,7 @@
+#Predictive Modeling & Machine Learning
+# Regression Analysis
+
+
+data <- read.csv("abalone.csv", header = TRUE)
+
+
